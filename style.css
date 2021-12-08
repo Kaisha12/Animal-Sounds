@@ -1,0 +1,35 @@
+body{
+font-family: cursive;
+background-color: baby rgb(223, 43, 73);
+}
+
+.header_div
+{
+    background-color:rgb(199, 66, 66);
+    color: rgb(12, 11, 11);
+}
+
+.header_div p{
+    font-family: 'Robot', sans-serif;
+    color: rgb(40, 206, 104);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family: 'Robot',sans-serif;
+    margin-top:30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color: rgba(250, 8, 189, 0.692);
+    bottom: 0;
+    font-size: 18px;
+    background-color: rgb(194, 12, 226);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(226, 187, 14);
+}
